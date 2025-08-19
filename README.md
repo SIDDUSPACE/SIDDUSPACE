@@ -1,55 +1,90 @@
-import { Card, CardContent } from "@/components/ui/card";
-import { FaLinkedin, FaEnvelope, FaGlobe, FaReact, FaPython, FaJava, FaHtml5, FaCss3Alt, FaJsSquare, FaDatabase, FaGithub, FaGitAlt, FaDocker, FaNodeJs, FaCogs, FaMicrochip } from "react-icons/fa";
+<h1 align="center">Hi 👋, I'm Siddarth</h1>  
+<h3 align="center">🚀 Electronics & Communication Engineer | Embedded Systems & IoT Developer | Automotive Software Enthusiast</h3>  
 
-export default function Portfolio() {
-  return (
-    <div className="p-8 max-w-5xl mx-auto">
-      
-      {/* Connect With Me Section */}
-      <Card className="mb-8 shadow-lg rounded-2xl">
-        <CardContent className="p-6">
-          <h2 className="text-2xl font-bold mb-4">Connect with Me</h2>
-          <div className="flex gap-6 text-xl">
-            <a href="https://www.linkedin.com/in/siddarth-s-079006343/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-blue-600">
-              <FaLinkedin /> LinkedIn
-            </a>
-            <a href="mailto:siddarth.engineer@gmail.com" className="flex items-center gap-2 hover:text-red-500">
-              <FaEnvelope /> Email
-            </a>
-            <a href="https://siddarth-portfolio.web.app/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 hover:text-green-600">
-              <FaGlobe /> Portfolio
-            </a>
-          </div>
-        </CardContent>
-      </Card>
+🔭 I’m currently working on **Embedded Systems & IoT Projects**  
+🌱 I’m currently learning **AUTOSAR, RTOS, Advanced Embedded C, and IoT Cloud Integration**  
+👯 I’m looking to collaborate on **IoT, Automotive & Embedded Projects**  
+💬 Ask me about **Embedded C, Microcontrollers, IoT, Automotive Software**  
+📫 How to reach me: **siddarth.engineer@gmail.com**  
+🌐 Portfolio: **[siddarth-portfolio.web.app](https://siddarth-portfolio.web.app/)**  
 
-      {/* Languages & Tools Section */}
-      <Card className="shadow-lg rounded-2xl">
-        <CardContent className="p-6">
-          <h2 className="text-2xl font-bold mb-4">Languages & Tools</h2>
-          <div className="grid grid-cols-3 sm:grid-cols-4 md:grid-cols-6 gap-6 text-4xl">
-            
-            {/* Programming Languages */}
-            <FaPython title="Python" className="hover:text-yellow-500" />
-            <FaJava title="Java" className="hover:text-red-500" />
-            <FaJsSquare title="JavaScript" className="hover:text-yellow-400" />
-            <FaHtml5 title="HTML5" className="hover:text-orange-500" />
-            <FaCss3Alt title="CSS3" className="hover:text-blue-500" />
-            <FaReact title="React" className="hover:text-cyan-400" />
+---
 
-            {/* Tools & Platforms */}
-            <FaGithub title="GitHub" className="hover:text-gray-700" />
-            <FaGitAlt title="Git" className="hover:text-orange-600" />
-            <FaDocker title="Docker" className="hover:text-blue-600" />
-            <FaNodeJs title="Node.js" className="hover:text-green-600" />
-            <FaDatabase title="SQL / Databases" className="hover:text-purple-500" />
-            <FaCogs title="Embedded Systems" className="hover:text-gray-600" />
-            <FaMicrochip title="VLSI & Chip Design" className="hover:text-indigo-600" />
+## 🌐 Connect with me  
+<p align="center">
+<a href="https://www.linkedin.com/in/siddarth-s-079006343/" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+</a>
+<a href="mailto:siddarth.engineer@gmail.com" target="blank" style="margin-left:10px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40"/>
+</a>
+<a href="https://siddarth-portfolio.web.app/" target="blank" style="margin-left:10px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40"/>
+</a>
+</p>  
 
-          </div>
-        </CardContent>
-      </Card>
+---
 
-    </div>
-  );
-}
+## 🛠️ Languages and Tools  
+
+### 👨‍💻 Programming Languages  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
+</p>  
+
+### 🔧 Embedded & Hardware  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/microchip.png" width="40" height="40" alt="STM32"/>  
+  <img src="https://img.icons8.com/color/48/microchip-processor.png" width="40" height="40" alt="PIC Microcontroller"/>  
+  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-fpga-electronic-device-itim2101-flat-itim2101.png" width="40" height="40" alt="FPGA"/>  
+</p>  
+
+### 🖥️ OS & RTOS  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/chip.png" width="40" height="40" alt="RTOS"/>  
+  <img src="https://img.icons8.com/color/48/freertos.png" width="40" height="40" alt="FreeRTOS"/>  
+</p>  
+
+### 📡 Protocols & IoT  
+<p align="center">
+  <img src="https://img.icons8.com/fluency/48/wifi.png" width="40" height="40" alt="WiFi"/>  
+  <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40" alt="Bluetooth"/>  
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-mqtt-internet-of-things-flat-flat-juicy-fish.png" width="40" height="40" alt="MQTT"/>  
+  <img src="https://img.icons8.com/color/48/cloud.png" width="40" height="40" alt="Cloud"/>  
+  <img src="https://img.icons8.com/ios/50/can-bus.png" width="40" height="40" alt="CAN Protocol"/>  
+</p>  
+
+### ⚙️ Tools & Platforms  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=radical" alt="stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=radical" alt="streak" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDUSPACE&layout=compact&theme=radical" alt="top languages" />
+</p>  
