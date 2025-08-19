@@ -13,10 +13,10 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="https://linkedin.com/in/[your-linkedin]" target="blank">
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/siddarth-s-079006343/)[your-linkedin]" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
-<a href="mailto:[your email]" target="blank">
+<a href="mailto:[siddarth.engineer@gmail.com]" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40"/>
 </a>
 </p>  
