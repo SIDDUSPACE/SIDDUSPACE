@@ -29,16 +29,42 @@
 
 ## 🛠️ Languages and Tools  
 <p align="left"> 
+  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>  
+
+  <!-- Embedded & Hardware -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="embedded c" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/stm32-mcu.png" alt="stm32" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/microchip.png" alt="pic microcontroller" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/electronics.png" alt="electronics" width="40" height="40"/>  
+
+  <!-- OS & RTOS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>  
+  <img src="https://img.icons8.com/fluency/48/chip.png" alt="freertos" width="40" height="40"/>  
+
+  <!-- Protocols & IoT -->
+  <img src="https://img.icons8.com/color/48/cloud.png" alt="iot" width="40" height="40"/>  
+  <img src="https://img.icons8.com/fluency/48/wifi.png" alt="wifi" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/bluetooth.png" alt="bluetooth" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/mqtt.png" alt="mqtt" width="40" height="40"/>  
+
+  <!-- Software Tools -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>  
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>  
+
+  <!-- Cloud & Platforms -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>  
+</p>
+
 
 ---
 
