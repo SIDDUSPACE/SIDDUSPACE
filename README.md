@@ -13,7 +13,7 @@
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/siddarth-s-079006343/)[your-linkedin]" target="blank">
+<a href="[https://linkedin.com/in/][https://www.linkedin.com/in/siddarth-s-079006343/)]" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
 <a href="mailto:[siddarth.engineer@gmail.com]" target="blank">
