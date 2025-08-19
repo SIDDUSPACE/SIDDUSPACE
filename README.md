@@ -11,15 +11,15 @@
 ---
 
 ## 🌐 Connect with me  
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/siddarth-s-079006343/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
 <a href="mailto:siddarth.engineer@gmail.com" target="blank" style="margin-left:10px;">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40"/>
 </a>
 <a href="https://siddarth-portfolio.web.app/" target="blank" style="margin-left:10px;">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40"/>
 </a>
 </p>  
 
@@ -28,7 +28,7 @@
 ## 🛠️ Languages and Tools  
 
 ### 👨‍💻 Programming Languages  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
@@ -37,7 +37,7 @@
 </p>  
 
 ### 🔧 Embedded & Hardware  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/microchip.png" width="40" height="40" alt="STM32"/>  
@@ -46,14 +46,14 @@
 </p>  
 
 ### 🖥️ OS & RTOS  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/chip.png" width="40" height="40" alt="RTOS"/>  
   <img src="https://img.icons8.com/color/48/freertos.png" width="40" height="40" alt="FreeRTOS"/>  
 </p>  
 
 ### 📡 Protocols & IoT  
-<p align="center">
+<p align="left">
   <img src="https://img.icons8.com/fluency/48/wifi.png" width="40" height="40" alt="WiFi"/>  
   <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40" alt="Bluetooth"/>  
   <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-mqtt-internet-of-things-flat-flat-juicy-fish.png" width="40" height="40" alt="MQTT"/>  
@@ -62,7 +62,7 @@
 </p>  
 
 ### ⚙️ Tools & Platforms  
-<p align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>  
