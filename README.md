@@ -7,17 +7,21 @@
 👯 I’m looking to collaborate on **IoT, Automotive & Embedded Projects**  
 💬 Ask me about **Embedded C, Microcontrollers, IoT, Automotive Software**  
 📫 How to reach me: **[siddarth.engineer@gmail.com]**  
+🌐 Portfolio: **https://siddarth-portfolio.web.app/**  
 
 
 ---
 
 ## 🌐 Connect with me  
 <p align="left">
-<a href="[https://linkedin.com/in/][https://www.linkedin.com/in/siddarth-s-079006343/)]" target="blank">
+<a href="https://www.linkedin.com/in/siddarth-s-079006343/" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="40" width="40"/>
 </a>
-<a href="mailto:[siddarth.engineer@gmail.com]" target="blank">
+<a href="mailto:siddarth.engineer@gmail.com" target="blank" style="margin-left:10px;">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40"/>
+</a>
+<a href="https://siddarth-portfolio.web.app/" target="blank" style="margin-left:10px;">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="portfolio" height="40" width="40"/>
 </a>
 </p>  
 
