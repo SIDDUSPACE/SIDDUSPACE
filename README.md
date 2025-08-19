@@ -56,7 +56,7 @@
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/wifi.png" width="40" height="40" alt="WiFi"/>  
   <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40" alt="Bluetooth"/>  
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-mqtt-internet-of-things-flat-flat-juicy-fish.png" width="40" height="40" alt="MQTT"/>  
+  <img src="https://img.icons8.com/ios-filled/100/000000/internet-of-things.png" alt="IoT" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/cloud.png" width="40" height="40" alt="Cloud"/>  
   <img src="https://img.icons8.com/ios/50/can-bus.png" width="40" height="40" alt="CAN Protocol"/>  
 </p>  
