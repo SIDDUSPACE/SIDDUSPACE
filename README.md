@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddarth</h1>  
 <h3 align="center">🚀 Electronics & Communication Engineer | Embedded Systems & IoT Developer | Automotive Software Enthusiast</h3>  
 
-🔭 I’m currently working on **Embedded Systems & IoT Projects**  
-🌱 I’m currently learning **AUTOSAR, RTOS, Advanced Embedded C, and IoT Cloud Integration**  
-👯 I’m looking to collaborate on **IoT, Automotive & Embedded Projects**  
+🔭 I’m currently working on **Embedded Systems & IoT Projects**   
 💬 Ask me about **Embedded C, Microcontrollers, IoT, Automotive Software**  
 📫 How to reach me: **siddarth.engineer@gmail.com**  
 🌐 Portfolio: **[siddarth-portfolio.web.app](https://siddarth-portfolio.web.app/)**  
