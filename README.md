@@ -40,16 +40,16 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/microchip.png" width="40" height="40" alt="STM32"/>  
-  <img src="https://img.icons8.com/color/48/microchip-processor.png" width="40" height="40" alt="PIC Microcontroller"/>  
-  <img src="https://img.icons8.com/external-itim2101-flat-itim2101/64/external-fpga-electronic-device-itim2101-flat-itim2101.png" width="40" height="40" alt="FPGA"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/STMicroelectronics-Logo.svg" alt="STM32" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microchip_Technology_Logo.svg" alt="PIC Microcontroller" width="40" height="40"/> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Xilinx_logo.svg" alt="FPGA" width="40" height="40"/> 
 </p>  
 
 ### 🖥️ OS & RTOS  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/chip.png" width="40" height="40" alt="RTOS"/>  
-  <img src="https://img.icons8.com/color/48/freertos.png" width="40" height="40" alt="FreeRTOS"/>  
+  <img src="https://www.freertos.org/fr-content-src/uploads/2018/07/cropped-freertos_logo.png" alt="FreeRTOS" width="40" height="40"/>
 </p>  
 
 ### 📡 Protocols & IoT  
@@ -58,7 +58,7 @@
   <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40" alt="Bluetooth"/>  
   <img src="https://img.icons8.com/ios-filled/100/000000/internet-of-things.png" alt="IoT" width="40" height="40"/> 
   <img src="https://img.icons8.com/color/48/cloud.png" width="40" height="40" alt="Cloud"/>  
-  <img src="https://img.icons8.com/ios/50/can-bus.png" width="40" height="40" alt="CAN Protocol"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CAN-Bus-logo.png" alt="CAN Protocol" width="40" height="40"/>
 </p>  
 
 ### ⚙️ Tools & Platforms  
@@ -69,7 +69,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/amazonaws.svg" alt="AWS" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/>  
 </p>  
