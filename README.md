@@ -6,8 +6,8 @@
 🌱 I’m currently learning **AUTOSAR, RTOS, Advanced Embedded C, and IoT Cloud Integration**  
 👯 I’m looking to collaborate on **IoT, Automotive & Embedded Projects**  
 💬 Ask me about **Embedded C, Microcontrollers, IoT, Automotive Software**  
-📫 How to reach me: **[your email here]**  
-⚡ Fun fact: *I love building real-time embedded solutions that connect hardware with intelligence!*  
+📫 How to reach me: **[siddarth.engineer@gmail.com]**  
+
 
 ---
 
