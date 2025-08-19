@@ -32,29 +32,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40"/>  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40"/>  
 </p>  
 
 ### 🔧 Embedded & Hardware  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/stm32-mcu.png" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/microchip.png" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/electronics.png" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/microchip.png" width="40" height="40" alt="STM32"/>  
+  <img src="https://img.icons8.com/color/48/microchip-processor.png" width="40" height="40" alt="PIC Microcontroller"/>  
 </p>  
 
 ### 🖥️ OS & RTOS  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
-  <img src="https://img.icons8.com/fluency/48/chip.png" width="40" height="40"/>  
+  <img src="https://img.icons8.com/color/48/chip.png" width="40" height="40" alt="RTOS"/>  
 </p>  
 
 ### 📡 Protocols & IoT  
 <p>
   <img src="https://img.icons8.com/fluency/48/wifi.png" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40"/>  
-  <img src="https://img.icons8.com/color/48/mqtt.png" width="40" height="40"/>  
+  <img src="https://img.icons8.com/external-flat-juicy-fish/60/external-mqtt-internet-of-things-flat-flat-juicy-fish.png" width="40" height="40" alt="MQTT"/>  
   <img src="https://img.icons8.com/color/48/cloud.png" width="40" height="40"/>  
 </p>  
 
@@ -68,7 +67,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>  
-</p>
+</p>  
 
 
 ---
