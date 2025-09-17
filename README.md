@@ -23,9 +23,9 @@
 
 ---
 
-## 🛠️ Languages and Tools  
+##  Languages and Tools  
 
-###  Programming Languages 👨‍💻 
+###  Programming Languages 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  
 </p>  
 
-###  Embedded & Hardware 🔧
+###  Embedded & Hardware 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40"/>  
@@ -43,14 +43,14 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Xilinx_logo.svg" alt="FPGA" width="40" height="40"/> 
 </p>  
 
-###  OS & RTOS 🖥️
+###  OS & RTOS 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>  
   <img src="https://img.icons8.com/color/48/chip.png" width="40" height="40" alt="RTOS"/>  
   <img src="https://www.freertos.org/fr-content-src/uploads/2018/07/cropped-freertos_logo.png" alt="FreeRTOS" width="40" height="40"/>
 </p>  
 
-###  Protocols & IoT 📡
+###  Protocols & IoT 
 <p align="left">
   <img src="https://img.icons8.com/fluency/48/wifi.png" width="40" height="40" alt="WiFi"/>  
   <img src="https://img.icons8.com/color/48/bluetooth.png" width="40" height="40" alt="Bluetooth"/>  
@@ -59,7 +59,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CAN-Bus-logo.png" alt="CAN Protocol" width="40" height="40"/>
 </p>  
 
-###  Tools & Platforms ⚙️
+###  Tools & Platforms 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>  
