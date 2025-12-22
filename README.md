@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Siddarth</h1>  
-<h3 align="center"> Electronics & Communication Engineer | Embedded Systems & IoT Developer | Automotive Software Engineer</h3>  
+<h3 align="center"> Embedded Software Engineer | STM32 | FreeRTOS | CAN | Automotive & IoT Systems</h3>  
 
-🔭 I’m currently working on **Embedded Systems & IoT Projects**   
+🔭 Currently building**Embedded & Automotive-focused projects** using STM32, FreeRTOS, CAN, and Linux-based tools.   
 💬 Ask me about **Embedded C, Microcontrollers, IoT, Automotive Software**  
 📫 How to reach me: **siddarth.engineer@gmail.com**  
 🌐 Portfolio: **[siddarth-portfolio.web.app](https://siddarth-portfolio.web.app/)**  
