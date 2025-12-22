@@ -93,17 +93,15 @@ Embedded Software Engineer (ECE) | STM32 | FreeRTOS | CAN | Automotive & IoT Sys
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=radical"/>
-</p>
+## 🛠️ Embedded Stack
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=radical"/>
-</p>
+![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
+![CAN](https://img.shields.io/badge/CAN%20Protocol-000000?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![ARM](https://img.shields.io/badge/ARM-Cortex--M-blue?style=for-the-badge)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDUSPACE&layout=compact&theme=radical"/>
-</p>
 
 ---
 
