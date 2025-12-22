@@ -1,110 +1,155 @@
-<h1 align="center">👋 Hi, I'm Siddarth</h1>
-<h3 align="center">
-Embedded Software Engineer (ECE) | STM32 | FreeRTOS | CAN | Automotive & IoT Systems
-</h3>
-
+<!-- 🔥 BANNER -->
 <p align="center">
-🔧 Building embedded & automotive-focused projects using <b>STM32, FreeRTOS, CAN, Embedded C, and Linux</b><br>
-💬 Ask me about <b>Embedded C, Microcontrollers, RTOS, IoT, Automotive Software</b><br>
-📫 Reach me at <b>siddarth.engineer@gmail.com</b><br>
-🌐 Portfolio: <a href="https://siddarth-portfolio.web.app/">siddarth-portfolio.web.app</a>
+  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/banner-header.gif" width="100%"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Embedded%20Roles-brightgreen"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Siddarth+S"/>
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=9AE6B4&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Automotive+%26+IoT+Systems"/>
+</p>
+
+
+
 
 ---
 
-## 🌐 Connect with me
-<p align="left">
-<a href="https://www.linkedin.com/in/siddarth-s-079006343/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
-</a>
-<a href="mailto:siddarth.engineer@gmail.com" target="_blank" style="margin-left:10px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" height="40"/>
-</a>
-<a href="https://siddarth-portfolio.web.app/" target="_blank" style="margin-left:10px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" height="40"/>
-</a>
-</p>
+## 🧑‍🚀 About Me
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
+- 🔧 Embedded Systems & Automotive Software Enthusiast  
+- 🧠 Strong in **Embedded C, RTOS, MCU peripherals**  
+- 🚗 Passionate about **Automotive Embedded Systems**  
+- 🐧 Linux user (Buildroot, Cross-Compilation – learning)  
+- 🎯 Actively looking for **Embedded / Firmware roles**
+
+📫 **Email:** siddarth.engineer@gmail.com  
+🌐 **Portfolio:** https://siddarth-portfolio.web.app  
+💼 **LinkedIn:** https://www.linkedin.com/in/siddarth-s-079006343/
 
 ---
 
-## 🛠️ Languages and Tools
+## ⚡ Embedded Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40"/>  
-</p>
-
----
-
-### 🔌 Embedded & Hardware
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/STMicroelectronics-Logo.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Microchip_Technology_Logo.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40"/>  
-</p>
-
+### 💻 Programming
 <p>
-<b>MCUs & Concepts:</b> STM32 | PIC | ARM Cortex-M | GPIO | Timers | UART | SPI | I2C
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
 </p>
 
 ---
 
-### 🧠 OS & RTOS
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>  
-  <img src="https://www.freertos.org/fr-content-src/uploads/2018/07/cropped-freertos_logo.png" width="40"/>
-</p>
-
----
-
-### 📡 Protocols & IoT
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/CAN-Bus-logo.png" width="40"/>
-  <img src="https://img.icons8.com/fluency/48/wifi.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/bluetooth.png" width="40"/>
-</p>
-
+### 🔌 Microcontrollers & Hardware
 <p>
-<b>Protocols:</b> CAN | UART | SPI | I2C | MQTT (learning)
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM-Cortex--M-blue?style=for-the-badge"/>
 </p>
+
+**Peripherals:** GPIO • Timers • UART • SPI • I2C • ADC
 
 ---
 
-### ⚙️ Tools & Platforms
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>  
-</p>
-
+### 🧵 OS & RTOS
 <p>
-<b>Embedded Tools:</b> STM32CubeIDE | PlatformIO | QEMU | Buildroot (learning)
+<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-## 🛠️ Embedded Stack
-
-![C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge)
-![CAN](https://img.shields.io/badge/CAN%20Protocol-000000?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
-![ARM](https://img.shields.io/badge/ARM-Cortex--M-blue?style=for-the-badge)
-
+### 🚗 Automotive & IoT
+<p>
+<img src="https://img.shields.io/badge/CAN%20Bus-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UART-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SPI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/I2C-purple?style=for-the-badge"/>
+</p>
 
 ---
 
-### 🎯 Career Objective
-Actively seeking **entry-level Embedded Software / Automotive Embedded roles**.  
-Open to **internships, trainee, and junior engineer positions**.
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+</p>
+
+---
+
+## 🚀 Featured Embedded Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 STM32 Bare-Metal Drivers
+- Register-level GPIO, UART, Timers  
+- Interrupt handling  
+- Modular driver architecture  
+
+</td>
+<td width="50%">
+
+### 🔹 FreeRTOS Multitasking System
+- Tasks, queues, semaphores  
+- Real-time scheduling  
+- UART logging  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔹 Automotive CAN Simulation
+- CAN frame handling  
+- State-machine logic  
+- Automotive use-cases  
+
+</td>
+<td width="50%">
+
+### 🔹 Embedded Linux (Learning)
+- Buildroot basics  
+- Cross-compilation  
+- RootFS creation  
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity (Clean & Professional)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## 🎯 Career Goal
+
+> **“To build reliable, real-time embedded systems for automotive and safety-critical applications.”**
+
+---
+
+<p align="center">
+<img src="https://img.shields.io/badge/Open%20to-Embedded%20Roles-brightgreen?style=for-the-badge"/>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
