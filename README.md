@@ -11,7 +11,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=9AE6B4&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Automotive+%26+IoT+Systems"/>
 </p>
 
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-Embedded%20Engineer-blue"/>
+  <img src="https://img.shields.io/badge/Open%20to-Embedded%20Roles-brightgreen"/>
+  <img src="https://img.shields.io/badge/Focus-Bare%20Metal%20%7C%20RTOS-orange"/>
+</p>
 
 
 ---
