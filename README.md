@@ -24,7 +24,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🔧 Embedded Systems & Automotive Software Enthusiast  
+- 🔧 Embedded Systems & IoT Enthusiast  
 - 🧠 Strong in **Embedded C, RTOS, MCU peripherals**  
 - 🚗 Passionate about **Automotive Embedded Systems**  
 - 🐧 Linux user (Buildroot, Cross-Compilation – learning)  
