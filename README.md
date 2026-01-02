@@ -138,7 +138,7 @@
 
 ---
 
-## 🐍 Contribution Snake (I hope to do so in 2026....)
+## 🐍 Contribution (I hope will be consistency throughout 2026....)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
