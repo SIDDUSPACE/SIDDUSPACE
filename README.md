@@ -126,7 +126,7 @@
 
 ---
 
-## 📊 GitHub Activity (Clean & Professional)
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=tokyonight&hide_border=true"/>
