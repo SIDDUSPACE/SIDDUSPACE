@@ -150,67 +150,54 @@ bool loves_bare_metal = true;
 <tr>
 <td width="50%" valign="top">
 
-### 📡 BLE Indoor Localization System
-> *Research Publication Project*
+### 🌡️ [RTOS Thermal Monitoring System](https://github.com/SIDDUSPACE/rtos-thermal-monitoring-system)
+> *ESP32 · FreeRTOS · Real-Time Firmware*
 
-<img src="https://img.shields.io/badge/ESP32-Espressif-red?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/BLE%205.0-RSSI-0082FC?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Published-Research-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ESP32-FreeRTOS-red?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C-Embedded-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Queue%20%7C%20Semaphore-RTOS-blue?style=flat-square&labelColor=0D1117"/>
 
-- Multi-beacon **RSSI trilateration** for indoor positioning
-- Custom BLE scanner firmware on ESP32
-- Distance estimation with signal smoothing algorithms
-- Accuracy validation experiments documented
-- **Research paper published** on findings
+- **4 FreeRTOS tasks** with priority-based scheduling
+- Queue-based sensor data transfer between tasks
+- **Semaphore-driven emergency event** signaling
+- Thermal & humidity threshold alert logic
+- Mirrors production RTOS patterns used in industrial systems
 
 </td>
 <td width="50%" valign="top">
 
-### 🚗 Smart Car Parking System
-> *Arduino Embedded Project*
+### 🔴 [Firmware Crash Analyzer](https://github.com/SIDDUSPACE/firmware-crash-analyzer)
+> *ARM Cortex-M · Bare-Metal · HardFault Debug*
 
-<img src="https://img.shields.io/badge/Arduino%20UNO-AVR-00979D?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/IR%20Sensors-Hardware-orange?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Servo-Actuator-blue?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ARM%20Cortex--M-Bare%20Metal-blue?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%20%7C%20Assembly-Fault%20Handler-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Renode-Emulation-orange?style=flat-square&labelColor=0D1117"/>
 
-- Real-time slot detection using **IR sensors**
-- Servo-driven barrier gate with automated open/close
-- **LCD I2C display** — live slot count & status
-- State-machine firmware for concurrent slot management
-- Clean modular driver structure
+- Silicon-grade **HardFault analysis** framework
+- Assembly handler captures CPU registers on crash
+- **Post-mortem symbolication** via `addr2line`
+- Persistent crash record survives reboot
+- Validated using Renode emulator — no hardware needed
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### 🔋 Battery Runtime Optimization
-> *Algorithm & Firmware Project*
+### 🔐 [Secure IoT Firmware & Device Auth](https://github.com/SIDDUSPACE/Secure-IoT-Firmware-Device-Auth)
+> *ESP32 · QEMU · Secure Boot · mTLS · Device Revocation*
 
-<img src="https://img.shields.io/badge/C++-Algorithm-blue?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Power%20Management-Optimization-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ESP32-QEMU-red?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Secure%20Boot-Root%20of%20Trust-00FF88?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/mTLS-X.509-blue?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%20%7C%20Python-Firmware%20%2B%20Backend-orange?style=flat-square&labelColor=0D1117"/>
 
-- Implemented **battery runtime prediction algorithm** in C++
-- Sleep-mode scheduling for maximum power efficiency
-- Profiling and benchmarking across load scenarios
-- Documented trade-offs between performance and runtime
-
-</td>
-<td width="50%" valign="top">
-
-### 🔌 PIC18 Peripheral Driver Suite
-> *Bare-Metal Register Programming*
-
-<img src="https://img.shields.io/badge/PIC18-Microchip-orange?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/MPLAB%20X-IDE-FF7900?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Bare%20Metal-Register%20Level-00FF88?style=flat-square&labelColor=0D1117"/>
-
-- **UART** — configurable baud, TX/RX ISR handlers
-- **ADC** — multi-channel sampling, voltage conversion
-- **Timers** — PWM generation, input capture, delays
-- **Interrupts** — priority-based ISR management
-- Reusable, documented header library
+- **Secure Boot & Root of Trust** — only signed firmware can execute
+- **Firmware manifest signature verification** — tampered images rejected at boot
+- **Mutual TLS (mTLS)** — full X.509 certificate-based device identity
+- **Certificate Revocation** — stolen/cloned device access blocked via CRL
+- Validated with QEMU simulation; architecture mirrors industrial/automotive security
 
 </td>
 </tr>
@@ -263,16 +250,6 @@ bool loves_bare_metal = true;
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SIDDUSPACE&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
-</p>
-
-<br/>
 
 ---
 
