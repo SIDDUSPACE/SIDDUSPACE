@@ -1,159 +1,315 @@
-<!-- 🔥 BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/master/assets/banner-header.gif" width="100%"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&pause=800&color=00FFD1&center=true&vCenter=true&width=600&lines=Siddarth+S"/>
-</p>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     HERO BANNER                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=9AE6B4&center=true&vCenter=true&width=800&lines=Embedded+Software+Engineer;Automotive+%26+IoT+Systems"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0A3D2E,100:00FF88&height=220&section=header&text=SIDDARTH%20S&fontSize=72&fontColor=00FF88&fontAlignY=38&desc=Embedded%20Firmware%20Engineer&descAlignY=58&descSize=22&descColor=8AE3C8&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Embedded%20Engineer-blue"/>
-  <img src="https://img.shields.io/badge/Open%20to-Embedded%20Roles-brightgreen"/>
-  <img src="https://img.shields.io/badge/Focus-Bare%20Metal%20%7C%20RTOS-orange"/>
-</p>
+</div>
 
+<div align="center">
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Firmware+Developer+%7C+Bare-Metal+Enthusiast;ESP32+%7C+PIC18+%7C+Arduino+%7C+ARM+Cortex;BLE+%7C+UART+%7C+SPI+%7C+I2C+%7C+ADC;PCB+Design+%7C+Hardware+Debugging;Building+Reliable+Hardware-Software+Bridges" alt="Typing animation"/>
 
-## 🧑‍🚀 About Me
+<br/>
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+[![Email](https://img.shields.io/badge/✉%20Email-siddarth.engineer%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF88&labelColor=0D1117&color=0A3D2E)](mailto:siddarth.engineer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-siddarth--portfolio.web.app-0D1117?style=for-the-badge&logo=firebase&logoColor=00FF88&labelColor=0D1117&color=0A3D2E)](https://siddarth-portfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddarth--s-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF88&labelColor=0D1117&color=0A3D2E)](https://www.linkedin.com/in/siddarth-s-079006343/)
+[![GitHub](https://img.shields.io/badge/GitHub-SIDDUSPACE-0D1117?style=for-the-badge&logo=github&logoColor=00FF88&labelColor=0D1117&color=0A3D2E)](https://github.com/SIDDUSPACE)
 
-- 🔧 Embedded Systems & IoT Enthusiast  
-- 🧠 Strong in **Embedded C, RTOS, MCU peripherals**  
-- 🚗 Passionate about **Automotive Embedded Systems**  
-- 🐧 Linux user (Buildroot, Cross-Compilation – learning)  
-- 🎯 Actively looking for **Embedded / Firmware roles**
+<br/>
 
-📫 **Email:** siddarth.engineer@gmail.com  
-🌐 **Portfolio:** https://siddarth-portfolio.web.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/siddarth-s-079006343/
+![Profile Views](https://komarev.com/ghpvc/?username=SIDDUSPACE&color=00FF88&style=for-the-badge&label=PROFILE+VIEWS)
+![Open to Work](https://img.shields.io/badge/🟢%20Open%20To-Embedded%20Roles-00FF88?style=for-the-badge&labelColor=0D1117)
+![Focus](https://img.shields.io/badge/Focus-Bare%20Metal%20%7C%20Firmware-orange?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
 
 ---
 
-## ⚡ Embedded Tech Stack
+## 🧑‍💻 About Me
 
-### 💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash"/>
+<img align="right" width="240" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif"/>
+
+```c
+/* siddarth.h — Embedded Firmware Engineer */
+
+#define NAME          "Siddarth S"
+#define ROLE          "Embedded Firmware Engineer"
+#define LOCATION      "India"
+
+const char *skills[]  = { "Embedded C", "Firmware", "PCB Design", "BLE" };
+const char *chips[]   = { "ESP32", "PIC18", "Arduino", "ARM Cortex" };
+const char *protocols[]= { "UART", "SPI", "I2C", "ADC", "BLE" };
+
+bool open_to_work     = true;
+bool loves_bare_metal = true;
+```
+
+<br clear="right"/>
+
+- 🔧 **Firmware-first** mindset — I live at the register level
+- 📡 Experienced in **BLE communication** and RSSI-based localization
+- 🔬 Research publication on **BLE Indoor Localization** using ESP32
+- 🖨️ Hands-on with **PCB design**, schematic capture, and bring-up
+- 🐧 Learning **Embedded Linux** — cross-compilation, device trees
+- 🎯 Seeking **Embedded / Firmware** roles in product companies
+
+<br/>
+
+---
+
+## ⚡ Technical Arsenal
+
+### 💻 Programming Languages
+
+<p align="center">
+<img src="https://img.shields.io/badge/Embedded%20C-Primary-00FF88?style=for-the-badge&logo=c&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C++-Algorithm%20Work-blue?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Python-Scripting%20%26%20Testing-yellow?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bash-Automation-grey?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ---
 
 ### 🔌 Microcontrollers & Hardware
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi"/>
-<img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-<img src="https://img.shields.io/badge/ARM-Cortex--M-blue?style=for-the-badge"/>
-</p>
 
-**Peripherals:** GPIO • Timers • UART • SPI • I2C • ADC
-
----
-
-### 🧵 OS & RTOS
-<p>
-<img src="https://skillicons.dev/icons?i=linux"/>
-<img src="https://img.shields.io/badge/FreeRTOS-00979D?style=for-the-badge"/>
+<p align="center">
+<img src="https://img.shields.io/badge/ESP32-Espressif-red?style=for-the-badge&logo=espressif&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/PIC18-Microchip-orange?style=for-the-badge&logo=microchip&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Arduino%20UNO-AVR%20ATmega328P-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ARM%20Cortex--M-Architecture-blue?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/STM32-📚%20Learning-lightgrey?style=for-the-badge&logo=stmicroelectronics&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-Linux%20Target-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ---
 
-### 🚗 Automotive & IoT
-<p>
-<img src="https://img.shields.io/badge/CAN%20Bus-black?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/UART-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SPI-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/I2C-purple?style=for-the-badge"/>
+### 📡 Communication Protocols
+
+<p align="center">
+<img src="https://img.shields.io/badge/BLE%205.0-Bluetooth%20LE-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/UART-Serial%20Comms-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/SPI-High%20Speed%20Peripheral-orange?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/I2C-Two%20Wire%20Interface-purple?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/ADC-Analog%20Acquisition-red?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GPIO-Digital%20I%2FO-brightgreen?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Timers-PWM%20%26%20Input%20Capture-yellow?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Interrupts-ISR%20Design-blue?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
 
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker"/>
+### 🖨️ PCB Design & Hardware
+
+<p align="center">
+<img src="https://img.shields.io/badge/EasyEDA-Schematic%20%26%20PCB-1E88E5?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/KiCad-PCB%20Layout-314CB0?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Oscilloscope-Signal%20Debugging-00FF88?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Logic%20Analyzer-Protocol%20Decode-orange?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Multimeter-Bring--Up%20%26%20Validation-red?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 ---
 
-## 🚀 Featured Embedded Projects
+### 🐧 Operating Systems & RTOS
+
+<p align="center">
+<img src="https://img.shields.io/badge/Linux-Embedded%20Target-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FreeRTOS-📚%20Learning-00979D?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bare%20Metal-Primary%20Approach-00FF88?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+---
+
+### ⚙️ Tools & Workflow
+
+<p align="center">
+<img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-SIDDUSPACE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/VS%20Code-IDE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MPLAB%20X-PIC%20Development-FF7900?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Arduino%20IDE-Prototyping-00979D?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GDB-Debugging-red?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<br/>
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 STM32 Bare-Metal Drivers
-- Register-level GPIO, UART, Timers  
-- Interrupt handling  
-- Modular driver architecture  
+### 📡 BLE Indoor Localization System
+> *Research Publication Project*
+
+<img src="https://img.shields.io/badge/ESP32-Espressif-red?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/BLE%205.0-RSSI-0082FC?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Published-Research-00FF88?style=flat-square&labelColor=0D1117"/>
+
+- Multi-beacon **RSSI trilateration** for indoor positioning
+- Custom BLE scanner firmware on ESP32
+- Distance estimation with signal smoothing algorithms
+- Accuracy validation experiments documented
+- **Research paper published** on findings
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 FreeRTOS Multitasking System
-- Tasks, queues, semaphores  
-- Real-time scheduling  
-- UART logging  
+### 🚗 Smart Car Parking System
+> *Arduino Embedded Project*
+
+<img src="https://img.shields.io/badge/Arduino%20UNO-AVR-00979D?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/IR%20Sensors-Hardware-orange?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Servo-Actuator-blue?style=flat-square&labelColor=0D1117"/>
+
+- Real-time slot detection using **IR sensors**
+- Servo-driven barrier gate with automated open/close
+- **LCD I2C display** — live slot count & status
+- State-machine firmware for concurrent slot management
+- Clean modular driver structure
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Automotive CAN Simulation
-- CAN frame handling  
-- State-machine logic  
-- Automotive use-cases  
+### 🔋 Battery Runtime Optimization
+> *Algorithm & Firmware Project*
+
+<img src="https://img.shields.io/badge/C++-Algorithm-blue?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Power%20Management-Optimization-00FF88?style=flat-square&labelColor=0D1117"/>
+
+- Implemented **battery runtime prediction algorithm** in C++
+- Sleep-mode scheduling for maximum power efficiency
+- Profiling and benchmarking across load scenarios
+- Documented trade-offs between performance and runtime
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🔹 Embedded Linux (Learning)
-- Buildroot basics  
-- Cross-compilation  
-- RootFS creation  
+### 🔌 PIC18 Peripheral Driver Suite
+> *Bare-Metal Register Programming*
+
+<img src="https://img.shields.io/badge/PIC18-Microchip-orange?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/MPLAB%20X-IDE-FF7900?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Bare%20Metal-Register%20Level-00FF88?style=flat-square&labelColor=0D1117"/>
+
+- **UART** — configurable baud, TX/RX ISR handlers
+- **ADC** — multi-channel sampling, voltage conversion
+- **Timers** — PWM generation, input capture, delays
+- **Interrupts** — priority-based ISR management
+- Reusable, documented header library
 
 </td>
 </tr>
 </table>
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=tokyonight&hide_border=true"/>
-</p>
+<br/>
 
 ---
 
-## 🐍 Contribution (I hope will be consistency throughout 2026....)
+## 🎯 Areas of Interest
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   ▸ Bare-Metal Firmware Development                         │
+│   ▸ PCB Design & Hardware Bring-Up                          │
+│   ▸ BLE & Wireless Embedded Systems                         │
+│   ▸ Low-Power Firmware Optimization                         │
+│   ▸ Hardware Debugging & Signal Analysis                    │
+│   ▸ Peripheral Driver Architecture                          │
+│   ▸ Embedded Linux (Cross-compilation, Device Trees)        │
+│   ▸ Real-Time Systems (Learning FreeRTOS)                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
 </p>
+
+<br/>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=8AE3C8&ring_color=00FF88" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=8AE3C8&dates=8AE3C8&currStreakNum=00FF88&sideNums=8AE3C8" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDUSPACE&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=8AE3C8&langs_count=6" width="42%"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SIDDUSPACE&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=6" width="100%"/>
+</p>
+
+<br/>
 
 ---
 
 ## 🎯 Career Goal
 
-> **“To build reliable, real-time embedded systems for automotive and safety-critical applications.”**
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   "To engineer reliable, efficient firmware for                  ║
+║    hardware-constrained systems — bridging the gap               ║
+║    between silicon and software, one register at a time."        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
 
 ---
 
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20to-Embedded%20Roles-brightgreen?style=for-the-badge"/>
-</p>
+## 📬 Let's Connect
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧%20siddarth.engineer@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:siddarth.engineer@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-siddarth--portfolio.web.app-orange?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117)](https://siddarth-portfolio.web.app)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://www.linkedin.com/in/siddarth-s-079006343/)
+
+<br/>
+
+![Open to Embedded Roles](https://img.shields.io/badge/🟢%20Open%20To%20Work-Embedded%20%7C%20Firmware%20%7C%20Hardware-00FF88?style=for-the-badge&labelColor=0D1117)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A3D2E,100:0D1117&height=120&section=footer" width="100%"/>
