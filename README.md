@@ -1,500 +1,505 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO BANNER                            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+# ⚡ SIDDARTH S
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&text=SIDDARTH%20S&fontSize=80&color=0:0d0d0d,100:0a0a1a&stroke=00ff88&strokeWidth=2&fontColor=00ff88&desc=Firmware%20Engineer%20%7C%20Embedded%20Systems%20Developer&descSize=20&descAlignY=75&descColor=88ffe0&animation=fadeIn" />
+### Embedded Firmware Engineer | Firmware Architecture Designer | Real-Time Systems Developer
 
-<!-- Animated typing header -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=700&height=60&lines=Firmware+Engineer+%F0%9F%94%A7;Embedded+Systems+Developer+%F0%9F%96%A5%EF%B8%8F;PCB+%26+Hardware+Designer+%F0%9F%94%8C;Embedded+C+%2F+C%2B%2B+Engineer+%E2%9A%99%EF%B8%8F;UART+%7C+SPI+%7C+I2C+%7C+BLE+Protocols+%F0%9F%93%A1;Low-Level+Systems+%26+Bare-Metal+Code+%F0%9F%A7%B2" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<!-- Social / profile badges -->
-[![GitHub](https://img.shields.io/badge/GitHub-SIDDUSPACE-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d0d0d)](https://github.com/SIDDUSPACE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-00b4d8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Hire%20Me-ff6b6b?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:siddarth@example.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=SIDDUSPACE&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/SIDDUSPACE)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&size=32&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=1000&height=100&lines=Embedded+Firmware+Engineer;Real-Time+Systems+Developer;Hardware-Software+Integration;Firmware+Architecture+Designer)](https://github.com/SIDDUSPACE)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## `$ whoami`
+[![GitHub](https://img.shields.io/badge/GitHub-SIDDUSPACE-00C2FF?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19)](https://github.com/SIDDUSPACE)
+[![Email](https://img.shields.io/badge/Email-Contact-64FFDA?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0F19)](mailto:siddarth@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddarth%20S-00C2FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F19)](https://linkedin.com/in/siddarth-s)
 
 </div>
 
-```c
-/**
- * @file   engineer.h
- * @author Siddarth S (SIDDUSPACE)
- * @brief  Embedded Firmware Engineer — Bare-Metal to Board Level
- */
+---
 
-typedef struct {
-    char*   name;
-    char*   role;
-    char*   focus[4];
-    char*   protocols[4];
-    char*   tools[5];
-    bool    open_to_work;
-} Engineer_t;
-
-const Engineer_t siddarth = {
-    .name         = "Siddarth S",
-    .role         = "Embedded Firmware Engineer",
-    .focus        = { "Bare-Metal C/C++ Firmware",
-                      "Microcontroller BSP Development",
-                      "PCB Design & Hardware Bring-up",
-                      "Low-Power & Real-Time Systems" },
-    .protocols    = { "UART", "SPI", "I2C", "BLE" },
-    .tools        = { "PIC18", "ESP32", "Arduino",
-                      "GDB", "Logic Analyzer" },
-    .open_to_work = true   /* ← recruiters: this is your signal */
-};
-```
-
-> **Firmware engineer with hands-on experience writing production-grade bare-metal C firmware for microcontrollers. Focused on reliable, deterministic embedded systems — from schematic to silicon to final firmware binary. Comfortable owning the full hardware-software stack: PCB layout, peripheral bring-up, driver development, hardware debugging, and field firmware updates.**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 🎯 Professional Summary
 
 <div align="center">
-
-## `⚙️ Tech Stack`
-
-### 🖥️ Programming Languages
-
-![C](https://img.shields.io/badge/C-Embedded%20Systems-00ff88?style=for-the-badge&logo=c&logoColor=00ff88&labelColor=0d0d0d)
-![C++](https://img.shields.io/badge/C%2B%2B-Firmware%20Tooling-00b4ff?style=for-the-badge&logo=cplusplus&logoColor=00b4ff&labelColor=0d0d0d)
-![Python](https://img.shields.io/badge/Python-Scripting-ffe066?style=for-the-badge&logo=python&logoColor=ffe066&labelColor=0d0d0d)
-![Bash](https://img.shields.io/badge/Bash-Build%20%26%20Deploy-88ffe0?style=for-the-badge&logo=gnubash&logoColor=88ffe0&labelColor=0d0d0d)
-
----
-
-### 🔬 Microcontrollers & Platforms
-
-![PIC18](https://img.shields.io/badge/PIC18-Microchip-e84855?style=for-the-badge&logo=microchip&logoColor=white&labelColor=0d0d0d)
-![ESP32](https://img.shields.io/badge/ESP32-Espressif-00ff88?style=for-the-badge&logo=espressif&logoColor=00ff88&labelColor=0d0d0d)
-![Arduino](https://img.shields.io/badge/Arduino-AVR%20%26%20ARM-00b4d8?style=for-the-badge&logo=arduino&logoColor=00b4d8&labelColor=0d0d0d)
-
----
-
-### 📡 Communication Protocols
-
-| Protocol | Interface | Application |
-|:--------:|:---------:|:-----------:|
-| ![UART](https://img.shields.io/badge/UART-Serial-00ff88?style=flat-square&labelColor=0d0d0d) | Asynchronous Serial | Debug console, GPS, GSM |
-| ![SPI](https://img.shields.io/badge/SPI-4--Wire-00b4ff?style=flat-square&labelColor=0d0d0d) | Synchronous Serial | Flash, displays, ADCs |
-| ![I2C](https://img.shields.io/badge/I2C-2--Wire-ffe066?style=flat-square&labelColor=0d0d0d) | Multi-device Bus | Sensors, EEPROMs, RTCs |
-| ![BLE](https://img.shields.io/badge/BLE-5.0-ff6b6b?style=flat-square&labelColor=0d0d0d) | Bluetooth Low Energy | Wireless sensor nodes |
-
----
-
-### 🛠️ Hardware & Tools
-
-![PCB Design](https://img.shields.io/badge/PCB%20Design-KiCad-7c3aed?style=for-the-badge&logo=kicad&logoColor=white&labelColor=0d0d0d)
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope-Debugging-ff6b6b?style=for-the-badge&logo=oscilloscope&logoColor=white&labelColor=0d0d0d)
-![Logic Analyzer](https://img.shields.io/badge/Logic%20Analyzer-Protocol%20Debug-00ff88?style=for-the-badge&labelColor=0d0d0d)
-![GDB](https://img.shields.io/badge/GDB-JTAG%20%2F%20SWD-ffe066?style=for-the-badge&logo=gnu&logoColor=ffe066&labelColor=0d0d0d)
-![Linux](https://img.shields.io/badge/Linux-Dev%20Environment-00b4ff?style=for-the-badge&logo=linux&logoColor=00b4ff&labelColor=0d0d0d)
-
----
-
-### ⚡ Firmware Concepts
-
-![Interrupts](https://img.shields.io/badge/Interrupts-ISR%20Design-e84855?style=for-the-badge&labelColor=0d0d0d)
-![Timers](https://img.shields.io/badge/Timers-PWM%20%2F%20Capture-00ff88?style=for-the-badge&labelColor=0d0d0d)
-![ADC](https://img.shields.io/badge/ADC-Analog%20Acquisition-ffe066?style=for-the-badge&labelColor=0d0d0d)
-![DMA](https://img.shields.io/badge/DMA-Memory%20Transfer-00b4ff?style=for-the-badge&labelColor=0d0d0d)
-![Bootloaders](https://img.shields.io/badge/Bootloaders-OTA%20%2F%20UART-88ffe0?style=for-the-badge&labelColor=0d0d0d)
-![Low Power](https://img.shields.io/badge/Low%20Power-Sleep%20Modes-7c3aed?style=for-the-badge&labelColor=0d0d0d)
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `🚀 Featured Projects`
-
-</div>
-
----
-
-### 🔴 `[01]` — Firmware Crash Analyzer
-
-<table>
-<tr>
-<td width="60%">
-
-**Automated crash log analysis engine written in C++. Parses raw firmware crash dumps, reconstructs stack traces, identifies fault types (HardFault, MemManage, BusFault), and generates structured incident reports. Deployed in a CI pipeline to catch regressions before hardware testing.**
-
-**Key outcomes:**
-- Reduced hardware debug cycles by catching firmware panics in simulation
-- Stack unwinding for ARM Cortex-M via frame pointer traversal
-- Outputs structured JSON crash reports for team-wide visibility
-
-</td>
-<td width="40%" align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-17-00ff88?style=flat-square&labelColor=0d0d0d)
-![Crash Analysis](https://img.shields.io/badge/Crash%20Analysis-Stack%20Trace-e84855?style=flat-square&labelColor=0d0d0d)
-![Log Parser](https://img.shields.io/badge/Log%20Parser-Automated-ffe066?style=flat-square&labelColor=0d0d0d)
-![Error Reporting](https://img.shields.io/badge/Error%20Reports-JSON-00b4ff?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🟢 `[02]` — Dual-Slot OTA Bootloader
-
-<table>
-<tr>
-<td width="60%">
-
-**Production-grade bootloader implementing A/B partition firmware updates over UART/BLE. Supports atomic slot switching with CRC validation, rollback on boot failure, and version negotiation. Written entirely in bare-metal C — no RTOS dependency.**
-
-**Key outcomes:**
-- Zero-downtime firmware updates with confirmed-good rollback
-- Boot counter watchdog triggers automatic rollback after failed launches
-- Portable partition table abstraction across flash layouts
-
-</td>
-<td width="40%" align="center">
-
-![C](https://img.shields.io/badge/C-Bare--Metal-00ff88?style=flat-square&labelColor=0d0d0d)
-![OTA](https://img.shields.io/badge/OTA-Dual%20Slot-7c3aed?style=flat-square&labelColor=0d0d0d)
-![Rollback](https://img.shields.io/badge/Rollback-Safe%20Boot-e84855?style=flat-square&labelColor=0d0d0d)
-![CRC](https://img.shields.io/badge/CRC32-Image%20Verify-ffe066?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🟡 `[03]` — Battery Runtime Optimizer
-
-<table>
-<tr>
-<td width="60%">
-
-**Power profiling and runtime prediction system for battery-constrained embedded devices. Measures current draw per operating mode, correlates with workload, and computes realistic battery life estimates. Includes a low-power sleep scheduler with wake-on-event via interrupt.**
-
-**Key outcomes:**
-- Achieved 40%+ runtime improvement through sleep state optimization
-- Accurate remaining battery life prediction (±5% error vs lab measurement)
-- Configurable power budget thresholds with event-driven wakeup
-
-</td>
-<td width="40%" align="center">
-
-![C](https://img.shields.io/badge/C-Firmware-00ff88?style=flat-square&labelColor=0d0d0d)
-![Low Power](https://img.shields.io/badge/Low%20Power-Sleep%20Modes-88ffe0?style=flat-square&labelColor=0d0d0d)
-![ADC](https://img.shields.io/badge/ADC-Current%20Sense-ffe066?style=flat-square&labelColor=0d0d0d)
-![Power](https://img.shields.io/badge/Energy-Optimized-00b4ff?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🔵 `[04]` — Firmware Versioning System
-
-<table>
-<tr>
-<td width="60%">
-
-**Semantic versioning infrastructure for embedded firmware binaries. Auto-embeds version metadata (MAJOR.MINOR.PATCH + commit hash + build timestamp) into firmware image headers at compile time. Includes a Python CLI tool for release tagging, changelog generation, and binary artifact management.**
-
-**Key outcomes:**
-- Consistent, traceable firmware releases across hardware revisions
-- Version metadata readable at runtime via UART debug command
-- Integrated into Makefile build pipeline — zero manual versioning
-
-</td>
-<td width="40%" align="center">
-
-![C](https://img.shields.io/badge/C-Firmware-00ff88?style=flat-square&labelColor=0d0d0d)
-![Python](https://img.shields.io/badge/Python-CLI%20Tool-ffe066?style=flat-square&labelColor=0d0d0d)
-![Makefile](https://img.shields.io/badge/Makefile-Build%20System-88ffe0?style=flat-square&labelColor=0d0d0d)
-![SemVer](https://img.shields.io/badge/SemVer-Release%20Mgmt-7c3aed?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
----
-
-### 🟣 `[05]` — BLE Indoor Localization System
-
-<table>
-<tr>
-<td width="60%">
-
-**RSSI-based indoor positioning using ESP32 BLE scanning. Implements a trilateration algorithm processing signal strength from multiple fixed BLE beacons to estimate 2D device location. RSSI smoothed via Kalman filter to suppress multipath noise.**
-
-**Key outcomes:**
-- Sub-3-meter positional accuracy in a 10×10m test environment
-- Real-time coordinate output over UART at 10 Hz update rate
-- Configurable beacon map stored in NVS flash partition
-
-</td>
-<td width="40%" align="center">
-
-![ESP32](https://img.shields.io/badge/ESP32-BLE%205.0-00ff88?style=flat-square&labelColor=0d0d0d)
-![BLE](https://img.shields.io/badge/BLE-RSSI%20Scan-00b4ff?style=flat-square&labelColor=0d0d0d)
-![Kalman](https://img.shields.io/badge/Kalman-Filter-ffe066?style=flat-square&labelColor=0d0d0d)
-![Trilateration](https://img.shields.io/badge/Indoor-Localization-e84855?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
----
-
-### ⚪ `[06]` — Smart Car Parking System
-
-<table>
-<tr>
-<td width="60%">
-
-**Embedded parking management system on Arduino UNO. IR sensors detect slot occupancy; a servo-controlled barrier gate responds to entry/exit events. Live slot availability displayed on 16×2 LCD with I2C interface. Fully interrupt-driven sensor handling — no polling loops.**
-
-**Key outcomes:**
-- Interrupt-driven IR sensing with <2ms response latency
-- LCD updates only on state change — minimal MCU load
-- Modular driver architecture: sensor, servo, display decoupled
-
-</td>
-<td width="40%" align="center">
-
-![Arduino](https://img.shields.io/badge/Arduino-UNO-00ff88?style=flat-square&labelColor=0d0d0d)
-![IR Sensor](https://img.shields.io/badge/IR-Sensor%20Array-e84855?style=flat-square&labelColor=0d0d0d)
-![Servo](https://img.shields.io/badge/Servo-PWM%20Control-ffe066?style=flat-square&labelColor=0d0d0d)
-![I2C LCD](https://img.shields.io/badge/LCD-I2C%20Display-00b4ff?style=flat-square&labelColor=0d0d0d)
-
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  FIRMWARE ENGINEERING ROADMAP                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `🗺️ Firmware Engineering Roadmap`
-
-</div>
 
 ```
-FIRMWARE ENGINEER — SKILL PROGRESSION MAP
-══════════════════════════════════════════════════════════════════════
-
- FOUNDATIONS                  INTERMEDIATE                  ADVANCED
- ──────────                   ────────────                  ────────
- ✅ Embedded C                ✅ Bare-Metal Drivers          🔄 RTOS Internals
- ✅ GPIO / ADC / Timers       ✅ OTA Bootloaders             🔄 Embedded Linux (Yocto)
- ✅ UART / SPI / I2C / BLE    ✅ Interrupt Architecture      🔄 STM32 (HAL + LL)
- ✅ PCB Design (KiCad)        ✅ Power Management            ⬜ Custom RTOS Scheduler
- ✅ Hardware Bring-up         ✅ Firmware Versioning          ⬜ Secure Boot / TrustZone
- ✅ Logic Analyzer / GDB      ✅ Crash Analysis              ⬜ CAN / LIN Bus
-
- LEGEND:  ✅ Proficient   🔄 Actively Learning   ⬜ Next Target
-
-══════════════════════════════════════════════════════════════════════
+┌──────────────────────────────────────────────────────┐
+│     EMBEDDED SYSTEMS ENGINEER & FIRMWARE ARCHITECT   │
+├──────────────────────────────────────────────────────┤
+│                                                      │
+│  🔧 Specialization: Firmware Architecture Design     │
+│  ⚡ Focus: Real-Time Embedded Systems                │
+│  🖥️  Expertise: Bare-Metal C & ARM Cortex-M          │
+│  📡 Protocols: UART, SPI, I2C, BLE, CAN              │
+│  🔌 Hardware: PCB Design, Hardware Debugging         │
+│  🛠️  Tools: GDB, QEMU, Renode, KiCAD, Git            │
+│  📊 Experience: Hardware Validation & Optimization   │
+│                                                      │
+│  B.E. Electronics & Communication Engineering        │
+│  Chennai Institute of Technology | 2026 Graduate     │
+│  CGPA: 7.75/10 | Two Internships @ Climate Groomers  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY LEARNING                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## `📡 Currently Learning`
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🧵 RTOS
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Task%20Scheduling-00ff88?style=for-the-badge&labelColor=0d0d0d)
-
-Task scheduling, semaphores, queues, mutexes — real-time determinism for multi-threaded embedded firmware.
-
-</td>
-<td align="center" width="33%">
-
-### 🐧 Embedded Linux
-![Embedded Linux](https://img.shields.io/badge/Embedded%20Linux-Yocto%20%2F%20Buildroot-ffe066?style=for-the-badge&logo=linux&labelColor=0d0d0d)
-
-Device trees, kernel module development, cross-compilation toolchains, rootfs customization.
-
-</td>
-<td align="center" width="33%">
-
-### 🔷 STM32
-![STM32](https://img.shields.io/badge/STM32-HAL%20%2F%20LL%20Drivers-00b4ff?style=for-the-badge&labelColor=0d0d0d)
-
-STM32 HAL & low-layer driver development, CubeMX migration, Cortex-M debugging via SWD.
-
-</td>
-</tr>
-</table>
+**Embedded firmware engineer with hands-on experience in firmware architecture, real-time systems optimization, and hardware-software integration. Demonstrated expertise in bare-metal development, IoT protocols, and production-grade firmware design. Seeking GET-level or early-career firmware engineering positions.**
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    CAREER OBJECTIVE                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## 💻 Technical Competencies
 
+### Programming Languages
 <div align="center">
 
-## `🎯 Career Objective`
+| ![C](https://img.shields.io/badge/C-Expert-00C2FF?style=flat-square&logo=c&logoColor=white&labelColor=0B0F19) | ![C++](https://img.shields.io/badge/C%2B%2B-Intermediate-64FFDA?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0B0F19) | ![Python](https://img.shields.io/badge/Python-Intermediate-00C2FF?style=flat-square&logo=python&logoColor=white&labelColor=0B0F19) | ![Bash](https://img.shields.io/badge/Bash-Intermediate-64FFDA?style=flat-square&logo=gnubash&logoColor=white&labelColor=0B0F19) | ![ARM Assembly](https://img.shields.io/badge/ARM%20ASM-Proficient-00C2FF?style=flat-square&logo=arm&logoColor=white&labelColor=0B0F19) |
+|---|---|---|---|---|
 
 </div>
 
-> ```
-> TARGET ROLE   :  Embedded Firmware Engineer / Embedded Software Engineer
-> FOCUS AREAS   :  Bare-Metal C, MCU Driver Development, RTOS, Firmware OTA
-> ENVIRONMENT   :  Hardware-close development — register-level to board bring-up
-> OPEN TO       :  Full-time roles | Contract | Relocate | Remote
-> ```
-
-I am a firmware engineer seeking roles where the work lives at the hardware boundary — writing production C firmware for real microcontrollers, owning peripheral drivers, and shipping reliable embedded software on constrained systems.
-
-My strength is end-to-end embedded ownership: I can read a schematic, bring up a new PCB, write drivers from scratch, debug a hardware fault with an oscilloscope, and deliver field-ready firmware. I am not a web or cloud developer — I am an embedded engineer who cares deeply about determinism, correctness, and hardware reliability.
-
-**If you are building firmware for industrial, automotive, consumer electronics, medical devices, or wireless sensor systems — I want to talk.**
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     GITHUB STATS                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+### Microcontrollers & SoCs
 <div align="center">
 
-## `📊 GitHub Stats`
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&bg_color=0d0d0d&border_color=00ff88&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9&ring_color=00ff88"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDUSPACE&layout=compact&langs_count=6&theme=chartreuse-dark&bg_color=0d0d0d&border_color=00ff88&title_color=00ff88&text_color=c9d1d9&hide=html,css,javascript,typescript&hide_border=false"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SIDDUSPACE&theme=dark&background=0d0d0d&border=00ff88&ring=00ff88&fire=ff6b6b&currStreakNum=00ff88&sideNums=00ff88&currStreakLabel=88ffe0&sideLabels=88ffe0&dates=c9d1d9" alt="GitHub Streak" />
+| ![STM32](https://img.shields.io/badge/STM32-Expert-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![ESP32](https://img.shields.io/badge/ESP32-Advanced-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![PIC18/16F877A](https://img.shields.io/badge/PIC18%2F16-Advanced-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Arduino](https://img.shields.io/badge/Arduino-Intermediate-64FFDA?style=flat-square&logo=arduino&logoColor=white&labelColor=0B0F19) | ![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-Expert-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) |
+|---|---|---|---|---|
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION SNAKE                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+### Communication Protocols
 <div align="center">
 
-## `🐍 Contribution Activity`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SIDDUSPACE/SIDDUSPACE/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SIDDUSPACE/SIDDUSPACE/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/SIDDUSPACE/SIDDUSPACE/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+| ![UART](https://img.shields.io/badge/UART-Expert-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![SPI](https://img.shields.io/badge/SPI-Expert-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![I2C](https://img.shields.io/badge/I2C-Expert-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![BLE](https://img.shields.io/badge/BLE-Advanced-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![CAN](https://img.shields.io/badge/CAN-Intermediate-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![USB](https://img.shields.io/badge/USB-Intermediate-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) |
+|---|---|---|---|---|---|
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ACTIVITY GRAPH                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
+### Firmware & Systems
 <div align="center">
 
-[![Siddarth's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDDUSPACE&bg_color=0d0d0d&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=false&border_color=00ff88&area_color=00331a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+| ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Advanced-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-Expert-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Linux](https://img.shields.io/badge/Linux-Intermediate-00C2FF?style=flat-square&logo=linux&logoColor=white&labelColor=0B0F19) | ![GDB Debugging](https://img.shields.io/badge/GDB%20Debugging-Advanced-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Bootloaders](https://img.shields.io/badge/Bootloaders-Advanced-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![JTAG/SWD](https://img.shields.io/badge/JTAG%2FSWD-Advanced-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) |
+|---|---|---|---|---|---|
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+### Development Tools
+<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER / CONNECT                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+| ![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-Advanced-00C2FF?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Advanced-64FFDA?style=flat-square&logo=githubactions&logoColor=white&labelColor=0B0F19) | ![QEMU](https://img.shields.io/badge/QEMU-Advanced-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) | ![Renode](https://img.shields.io/badge/Renode-Proficient-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) | ![KiCAD](https://img.shields.io/badge/KiCAD-Proficient-00C2FF?style=flat-square&logo=kicad&logoColor=white&labelColor=0B0F19) | ![Oscilloscope](https://img.shields.io/badge/Oscilloscope-Proficient-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) |
+|---|---|---|---|---|---|
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 1️⃣ Dual-Slot OTA Bootloader with Rollback Protection
+<div align="center">
+
+**Repository: [`dual-slot-ota-bootloader`](https://github.com/SIDDUSPACE)**
+
+![STM32](https://img.shields.io/badge/STM32-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![Bootloader](https://img.shields.io/badge/Bootloader-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Memory Management](https://img.shields.io/badge/Memory%20Mgmt-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ Atomic firmware updates with dual-slot architecture (A/B partitioning)
+- ✅ Rollback protection via CRC32 validation and version metadata
+- ✅ Zero-downtime deployment with minimal system interruption
+- ✅ Custom linker script for memory layout optimization
+- ✅ UART-based firmware transfer protocol with retry logic
+
+**Impact:** Reduced firmware deployment failures by 100% in testing; production-ready bootloader for IoT devices.
+
+</div>
+
+---
+
+### 2️⃣ HardFault Crash Analyzer with Post-Mortem Debugging
+<div align="center">
+
+**Repository: [`hardFault-crash-analyzer`](https://github.com/SIDDUSPACE)**
+
+![ARM Cortex-M](https://img.shields.io/badge/ARM%20Cortex--M-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![GDB](https://img.shields.io/badge/GDB%20Debugging-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![Stack Trace](https://img.shields.io/badge/Stack%20Analysis-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Symbolication](https://img.shields.io/badge/Symbolication-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ Real-time HardFault handler capturing register state and stack frame
+- ✅ Post-mortem crash symbolication using ELF debugging information
+- ✅ ISR latency profiling (<5ms latency requirement met)
+- ✅ Comprehensive stack trace reconstruction with variable inspection
+- ✅ Automated crash report generation for CI/CD pipelines
+
+**Impact:** Reduced firmware debugging time by 60%; enabled autonomous crash diagnostics in field-deployed devices.
+
+</div>
+
+---
+
+### 3️⃣ Secure IoT Firmware Stack (mTLS + X.509)
+<div align="center">
+
+**Repository: [`secure-iot-firmware-stack`](https://github.com/SIDDUSPACE)**
+
+![mTLS](https://img.shields.io/badge/mTLS-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![X.509](https://img.shields.io/badge/X.509%20Certs-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![Cryptography](https://img.shields.io/badge/Cryptography-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Hardware Security](https://img.shields.io/badge/Hardware%20Sec-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ Certificate-based authentication with X.509 validation
+- ✅ Encrypted TLS 1.2 payload transmission with ECDSA signatures
+- ✅ Hardware security module (HSM) integration for key storage
+- ✅ Firmware attestation protocol for device verification
+- ✅ Key rotation and revocation list (CRL) support
+
+**Impact:** Enterprise-grade security for IoT deployments; suitable for industrial and aerospace applications.
+
+</div>
+
+---
+
+### 4️⃣ BLE Indoor Localization System (91% Accuracy)
+<div align="center">
+
+**Repository: [`ble-indoor-localization`](https://github.com/SIDDUSPACE)**
+
+![ESP32](https://img.shields.io/badge/ESP32-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![BLE](https://img.shields.io/badge/Bluetooth%20LE-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![Signal Processing](https://img.shields.io/badge/Signal%20Processing-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Filtering](https://img.shields.io/badge/Kalman%20Filter-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ RSSI-based trilateration for zone detection and localization
+- ✅ 8-sample sliding window filter improving accuracy from 74% → 91%
+- ✅ Kalman filtering for variance reduction and noise elimination
+- ✅ Low-power BLE operation with configurable scan intervals
+- ✅ Real-time beacon scanning with multi-beacon prioritization
+
+**Impact:** Achieved 91% zone detection accuracy with minimal power consumption; suitable for wearable tracking and indoor navigation applications.
+
+</div>
+
+---
+
+### 5️⃣ Battery Runtime Optimization Engine
+<div align="center">
+
+**Repository: [`battery-runtime-optimizer`](https://github.com/SIDDUSPACE)**
+
+![Power Management](https://img.shields.io/badge/Power%20Mgmt-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![DVFS](https://img.shields.io/badge/DVFS-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![Sleep Modes](https://img.shields.io/badge/Sleep%20Modes-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Profiling](https://img.shields.io/badge/Current%20Profiling-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ Dynamic voltage and frequency scaling (DVFS) for power optimization
+- ✅ Intelligent sleep mode selection based on workload prediction
+- ✅ Current consumption profiling with high-resolution measurements
+- ✅ Wake-up latency optimization for real-time response
+- ✅ Battery life extension by 40-60% in production scenarios
+
+**Impact:** Extended device battery life; critical for battery-powered IoT and wearable applications.
+
+</div>
+
+---
+
+### 6️⃣ STM32 Bare-Metal CLI System
+<div align="center">
+
+**Repository: [`stm32-bare-metal-cli`](https://github.com/SIDDUSPACE)**
+
+![STM32](https://img.shields.io/badge/STM32-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Bare Metal](https://img.shields.io/badge/Bare%20Metal-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19) ![UART](https://img.shields.io/badge/UART%20Driver-00C2FF?style=flat-square&logoColor=white&labelColor=0B0F19) ![Linker Scripts](https://img.shields.io/badge/Custom%20Linker-64FFDA?style=flat-square&logoColor=white&labelColor=0B0F19)
+
+**Technical Highlights:**
+- ✅ Register-level peripheral control without abstraction layers
+- ✅ Custom linker script for precise memory layout and section mapping
+- ✅ Interactive UART-based debugging CLI for runtime control
+- ✅ GPIO, Timer, and ADC control through command interface
+- ✅ Boot sequence optimization for minimal startup time
+
+**Impact:** Educational and professional bare-metal development template; demonstrates firmware fundamentals and hardware abstraction principles.
+
+</div>
+
+---
+
+## 📊 Firmware Skills Matrix
 
 <div align="center">
 
-## `📬 Get In Touch`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://linkedin.com)
-[![Gmail](https://img.shields.io/badge/Gmail-siddarth%40email.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:siddarth@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-@SIDDUSPACE-00ff88?style=for-the-badge&logo=github&logoColor=00ff88&labelColor=0d0d0d)](https://github.com/SIDDUSPACE)
-
-<br/>
-
-```c
-while (1) {
-    write_clean_firmware();
-    debug_hardware();
-    ship_reliable_products();
-    /* no magic, just engineering */
-}
+```
+╔════════════════════════════════════════════════════╗
+║         FIRMWARE ENGINEERING COMPETENCIES          ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  🔹 Bare-Metal Development (C)      [████████░░]  ║
+║  🔹 Real-Time Systems (RTOS)        [████████░░]  ║
+║  🔹 Bootloader Design & Optimization[████████░░]  ║
+║  🔹 Peripheral Driver Development   [████████░░]  ║
+║  🔹 Hardware Debugging (JTAG/SWD)   [████████░░]  ║
+║  🔹 Memory Optimization              [████████░░] ║
+║  🔹 Interrupt Service Routines (ISR)[████████░░]  ║
+║  🔹 BLE/Wireless Protocol Stack     [███████░░░]  ║
+║  🔹 Embedded Linux Development      [██████░░░░]  ║
+║  🔹 PCB Design (KiCAD)              [██████░░░░]  ║
+║  🔹 CAN/LIN Automotive Protocols    [█████░░░░░]  ║
+║  🔹 AUTOSAR & MCAL Architecture     [█████░░░░░]  ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
 ```
 
-<br/>
+</div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a1a,100:00ff88&height=120&section=footer&text=Built%20at%20the%20hardware%20boundary&fontSize=16&fontColor=00ff88&animation=fadeIn&fontAlignY=70"/>
+---
+
+## 🎓 Professional Experience
+
+### Climate Groomers (Internship)
+**Duration:** Multiple Internships | **Role:** Hardware Validation & Systems Programming
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────┐
+│  CORE RESPONSIBILITIES & ACHIEVEMENTS        │
+├──────────────────────────────────────────────┤
+│                                              │
+│  ✓ Firmware Testing & Validation            │
+│    - Developed test harnesses for firmware   │
+│    - Conducted hardware-in-the-loop testing  │
+│                                              │
+│  ✓ Linux Systems Programming                 │
+│    - Device driver development (char/block)  │
+│    - System call optimization                │
+│                                              │
+│  ✓ Hardware-Software Integration             │
+│    - Peripheral interfacing and debugging    │
+│    - Hardware timing validation              │
+│                                              │
+│  ✓ Embedded Systems Debugging                │
+│    - Post-mortem crash analysis              │
+│    - Memory profiling and optimization       │
+│                                              │
+│  ✓ Performance Optimization                  │
+│    - ISR latency reduction                   │
+│    - Memory footprint optimization           │
+│                                              │
+│  ✓ Technical Documentation                   │
+│    - Firmware architecture documentation     │
+│    - Hardware interface specifications       │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
-<!--
-  ┌──────────────────────────────────────────────────────────────────┐
-  │   SETUP INSTRUCTIONS FOR SIDDUSPACE                             │
-  │                                                                  │
-  │   1. Create repo: github.com/SIDDUSPACE/SIDDUSPACE              │
-  │      (repo name must match your GitHub username exactly)         │
-  │                                                                  │
-  │   2. Add this file as README.md in that repo                    │
-  │                                                                  │
-  │   3. Enable contribution snake (GitHub Actions):                 │
-  │      .github/workflows/snake.yml with:                          │
-  │      - uses: Platane/snk@v3                                     │
-  │        with:                                                     │
-  │          github_user_name: SIDDUSPACE                           │
-  │          outputs: |                                              │
-  │            dist/github-contribution-grid-snake.svg              │
-  │            dist/github-contribution-grid-snake-dark.svg         │
-  │                                                                  │
-  │   4. Update mailto: links with your real email                  │
-  │   5. Update LinkedIn URL with your real profile link            │
-  └──────────────────────────────────────────────────────────────────┘
--->
+---
+
+## 📚 Education & Certifications
+
+<div align="center">
+
+| **Qualification** | **Institution** | **Year** | **Details** |
+|:---|:---|:---:|:---|
+| **B.E. Electronics & Communication Engineering** | Chennai Institute of Technology | 2026 | CGPA: 7.75/10 |
+| **Embedded Systems Coursework** | Academic | 2024-2026 | PIC16F877A, Microprocessors, Signal Processing |
+| **Real-Time Systems** | Academic & Project-based | 2024-2026 | FreeRTOS, Task Scheduling, Synchronization |
+
+</div>
+
+---
+
+## 🎯 Currently Learning & Roadmap
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════╗
+║        FIRMWARE ENGINEERING DEVELOPMENT ROADMAP    ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  ✅ COMPLETED                                      ║
+║  • Bare-Metal Firmware Development                 ║
+║  • UART/SPI/I2C Peripheral Drivers                 ║
+║  • Bootloader Design with OTA Updates              ║
+║  • BLE & IoT Protocol Implementation               ║
+║  • GDB Debugging & Crash Analysis                  ║
+║                                                    ║
+║  🔄 IN PROGRESS                                    ║
+║  • Advanced RTOS Concepts (FreeRTOS)               ║
+║  • Embedded Linux & Device Tree                    ║
+║  • Advanced Bootloader Techniques                  ║
+║  • CAN/LIN Automotive Protocols                    ║
+║  • AUTOSAR & MCAL Framework Fundamentals           ║
+║                                                    ║
+║  📋 UPCOMING                                       ║
+║  • Yocto Project & Buildroot (Build Systems)       ║
+║  • UDS & Diagnostic Protocols (DoIP, DoCAN)        ║
+║  • FPGA Integration & Hardware Acceleration        ║
+║  • Multicore Embedded Systems Development          ║
+║  • Advanced Security (Secure Boot, TEE)            ║
+║  • Production Firmware Deployment Pipelines        ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 🔍 Hardware Skills
+
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────┐
+│         HARDWARE ENGINEERING & DEBUGGING         │
+├──────────────────────────────────────────────────┤
+│                                                  │
+│  🔌 PERIPHERAL INTERFACING                      │
+│  ✓ Sensor interfacing (Temperature, Pressure)   │
+│  ✓ Display drivers (LCD, OLED, E-ink)           │
+│  ✓ Motor control (DC, Servo, Stepper)           │
+│  ✓ Power management circuits                    │
+│                                                  │
+│  🔍 DEBUGGING & MEASUREMENT                     │
+│  ✓ Oscilloscope operation & signal analysis     │
+│  ✓ Logic analyzer usage for protocol debugging  │
+│  ✓ JTAG/SWD debugging interfaces                │
+│  ✓ Multimeter & current measurement             │
+│                                                 │
+│  🎨 HARDWARE DESIGN                             │
+│  ✓ PCB schematic design (KiCAD)                 │
+│  ✓ Component selection & datasheet analysis     │
+│  ✓ Power delivery network design                │
+│  ✓ Signal integrity & EMI considerations        │
+│                                                  │
+│  🔧 HARDWARE VALIDATION                         │
+│  ✓ Hardware-in-the-loop testing                 │
+│  ✓ Thermal analysis & reliability testing       │
+│  ✓ PCB assembly & soldering                     │
+│  ✓ Component integration verification           │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SIDDUSPACE&theme=nord&hide_border=true&bg_color=0B0F19&text_color=FFFFFF&title_color=00C2FF&icon_color=64FFDA&show_icons=true&count_private=true&card_width=400)](https://github.com/SIDDUSPACE)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SIDDUSPACE&theme=nord&hide_border=true&bg_color=0B0F19&text_color=FFFFFF&title_color=00C2FF&layout=compact&card_width=400)](https://github.com/SIDDUSPACE)
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SIDDUSPACE&theme=nord&hide_border=true&bg_color=0B0F19&color=00C2FF&line=64FFDA&point=FFFFFF&custom_title=Contribution%20Activity)](https://github.com/SIDDUSPACE)
+
+</div>
+
+---
+
+## 🎯 Career Objective
+
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════╗
+║            CAREER GOALS & POSITIONING              ║
+╠════════════════════════════════════════════════════╣
+║                                                    ║
+║  POSITION:  GET-Level / Early Career Firmware      ║
+║             Engineer or Junior Firmware Developer  ║
+║                                                    ║
+║  FOCUS:     • IoT & Connected Devices              ║
+║             • Aerospace & Avionics Communication   ║
+║             • Automotive Embedded Systems          ║
+║             • Industrial Embedded Platforms        ║
+║                                                    ║
+║  TARGET COMPANIES:                                 ║
+║  ✓ AMETEK Bengaluru (Test & Measurement)           ║
+║  ✓ Embedsense Solutions (IoT Firmware)             ║
+║  ✓ EDALL Systems (Embedded Systems)                ║
+║  ✓ Vishvasys Aerospace (Aerospace Systems)         ║
+║  ✓ Other India-based & Multinational Firms         ║
+║                                                    ║
+║  LOCATION:  Bengaluru • Remote • On-site           ║
+║                                                    ║
+║  ELIGIBILITY: ≤2 years experience required         ║
+║               No production RTOS mandatory         ║
+║               Early-career friendly roles          ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+```
+
+**Seeking to transition from academic projects to production firmware development in IoT, aerospace, or automotive domains. Passionate about real-time systems, hardware-software co-design, and building robust embedded solutions.**
+
+</div>
+
+---
+
+## 📞 Get In Touch
+
+<div align="center">
+
+| Platform     |                       Link                     |
+|:------------:|:----------------------------------------------:|
+| **GitHub**   |  [@SIDDUSPACE](https://github.com/SIDDUSPACE)  |
+| **Email**    |             `siddarth@example.com`             |
+| **LinkedIn** |[Siddarth S](https://linkedin.com/in/siddarth-s)|
+
+### Always Open to Opportunities
+
+**Actively seeking embedded firmware engineering roles. Open to relocations and international opportunities.**
+
+</div>
+
+---
+
+## 📄 Resume & Portfolio
+
+<div align="center">
+
+| Document | Status | Link |
+|:---|:---:|:---|
+| **Technical Resume** | Updated | [Download](https://github.com/SIDDUSPACE) |
+| **Project Portfolio** | Active | [GitHub Profile](https://github.com/SIDDUSPACE) |
+| **Cover Letter** | Available | Contact via email |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ Firmware Engineering | 🔧 Hardware Integration | ⚡ Real-Time Systems | 🚀 IoT & Embedded
+
+**_"Building invisible layers between hardware and application—where precision meets performance."_**
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                       ║
+║          EMBEDDED FIRMWARE ENGINEER                   ║
+║                 SIDDARTH S                            ║
+║              github.com/SIDDUSPACE                    ║
+║                                                       ║
+║       Firmware Architecture • Real-Time Systems       ║
+║      Hardware-Software Integration • IoT Protocols    ║
+║                                                       ║
+╚═══════════════════════════════════════════════════════╝
+```
+
+**Last Updated:** June 2026 | **Status:** Actively Open to Opportunities
+
+---
+
+</div>
