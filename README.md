@@ -13,8 +13,8 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-SIDDUSPACE-00C2FF?style=flat-square&logo=github&logoColor=white&labelColor=0B0F19)](https://github.com/SIDDUSPACE)
-[![Email](https://img.shields.io/badge/Email-Contact-64FFDA?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0F19)](mailto:siddarth@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddarth%20S-00C2FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F19)](https://linkedin.com/in/siddarth-s)
+[![Email](https://img.shields.io/badge/Email-Contact-64FFDA?style=flat-square&logo=gmail&logoColor=white&labelColor=0B0F19)](mailto:siddarth.engineer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Siddarth%20S-00C2FF?style=flat-square&logo=linkedin&logoColor=white&labelColor=0B0F19)](https://www.linkedin.com/in/siddarth-embedded/)
 
 </div>
 
@@ -445,11 +445,12 @@
 
 <div align="center">
 
-| Platform     |                       Link                     |
-|:------------:|:----------------------------------------------:|
-| **GitHub**   |  [@SIDDUSPACE](https://github.com/SIDDUSPACE)  |
-| **Email**    |             `siddarth@example.com`             |
-| **LinkedIn** |[Siddarth S](https://linkedin.com/in/siddarth-s)|
+| Platform     |                       Link                                  |
+|:------------:|:-----------------------------------------------------------:|
+| **GitHub**   |  [@SIDDUSPACE](https://github.com/SIDDUSPACE)               |
+| **Email**    |             `siddarth.engineer@gmail.com`                   |
+| **LinkedIn** |[Siddarth S](https://www.linkedin.com/in/siddarth-embedded/) |
+|**Portfolio** |[siddarth s](https://siddarth-portfolio-five.vercel.app/)    |
 
 ### Always Open to Opportunities
 
