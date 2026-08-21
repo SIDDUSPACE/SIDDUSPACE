@@ -466,7 +466,7 @@
 
 | Document | Status | Link |
 |:---|:---:|:---|
-| **Technical Resume** | Updated | [Download](https://github.com/SIDDUSPACE) |
+| **Technical Resume** | Updated | [Download](https://siddarth-portfolio-five.vercel.app/resume.pdf) |
 | **Project Portfolio** | Active | [GitHub Profile](https://github.com/SIDDUSPACE) |
 | **Cover Letter** | Available | Contact via email |
 
